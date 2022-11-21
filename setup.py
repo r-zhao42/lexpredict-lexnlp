@@ -102,7 +102,7 @@ setup(
         'reporters-db==3.2.18',
         'requests==2.27.1',
         'scipy==1.8.1',
-        'scikit-learn==0.23.1',
+        'scikit-learn==1.1.3',
         'tzlocal==2.1',
         'tqdm>=4.36.0',
         'Unidecode==1.3.4',
